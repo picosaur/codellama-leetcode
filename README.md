@@ -1,7 +1,8 @@
 # codellama-leetcode
-## RESUME: not an intelligence but a search engine
-
 Codellama solves leetcode
+
+***RESUME: not an intelligence but a search engine***
+
 ## 1. Two Sum
 https://leetcode.com/problems/two-sum/
 ### Input
